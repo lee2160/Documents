@@ -64,3 +64,4 @@ Otherwise, we will not merge your pull requests.
 | nervosfans.bit     | https://ckb.bihu.com/    |  Reserved for nervos Community.|
 | ckbbar.bit     | https://ckb.bihu.com/     |  币吧，the CKB Bar|
 | yin.bit     | https://yin.finance/     |  MULTI-STRATEGY LIQUIDITY OPTIMIZER |
+| adong.bit     | https://adong.im/     |  个人昵称, DAS狂热粉丝. |
